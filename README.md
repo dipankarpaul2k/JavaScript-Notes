@@ -8,6 +8,6 @@ In this series I will be sharing my journey in learning Javascript and posting m
 
 ## contents:
 
-1. [What is JavaScript?](what-is-javascript.md)
-2. [Where is Javascript used?](where-is-javascript-used.md)
-3. [What are the limitations of JavaScript?](what-are-the-limitations-of-javascript.md)
+1. [What is JavaScript?](Basics/what-is-javascript.md)
+2. [Where is Javascript used?](Basics/where-is-javascript-used.md)
+3. [What are the limitations of JavaScript?](Basics/what-are-the-limitations-of-javascript.md)
