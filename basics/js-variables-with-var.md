@@ -1,4 +1,4 @@
-Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting
+<font size="5">**Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting**</font >
 
 - [Introduction](#introduction)
 - [Declaring and Initializing Variables with `var`](#declaring-and-initializing-variables-with-var)
