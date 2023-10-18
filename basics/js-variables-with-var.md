@@ -1,5 +1,14 @@
 # Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting
 
+- [Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting](#mastering-javascript-variables-with-var-a-comprehensive-guide-from-declarations-to-hoisting)
+  - [Introduction](#introduction)
+  - [Declaring and Initializing Variables with `var`](#declaring-and-initializing-variables-with-var)
+  - [Understanding Variable Scope](#understanding-variable-scope)
+  - [Hoisting: JavaScript's Peculiar Behavior](#hoisting-javascripts-peculiar-behavior)
+  - [Disadvantages of Using `var` and Cautions](#disadvantages-of-using-var-and-cautions)
+  - [Key Takeaways](#key-takeaways)
+
+
 ## Introduction
 
 Are you ready to dive into the fascinating world of JavaScript variables? Variables are the fundamental building blocks of any programming language, and in JavaScript, they play a critical role in storing and manipulating data. In this comprehensive blog post, we'll explore the `var` keyword, which is used to declare variables in JavaScript.  These variables serve as containers that can hold various types of data, including numbers, strings, booleans, objects, or arrays. Understanding the ins and outs of JavaScript variables is essential for any programmer because they form the foundation for data manipulation and program logic.
