@@ -6,7 +6,11 @@ Currently, I am learning my front-end development and full-stack development thr
 
 In this series I will be sharing my journey in learning Javascript and posting my own notes from the process. These notes can be helpful for beginners in learning this amazing language.
 
-If you find anything error or wrong information, feel free to contact me [Dipankar Paul](dipankarpaul2k@gmail.com).
+If you find anything error or wrong information, feel free to contact me. I may not be able to reply all the messages, but I do read them all.
+
+Dipankar Paul 😀 | 👉 <dipankarpaul2k@gmailcom>
+
+___
 
 ## contents 👇:
 
