@@ -1,12 +1,11 @@
-# Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting
+Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting
 
-- [Mastering JavaScript Variables with 'var': A Comprehensive Guide from Declarations to Hoisting](#mastering-javascript-variables-with-var-a-comprehensive-guide-from-declarations-to-hoisting)
-  - [Introduction](#introduction)
-  - [Declaring and Initializing Variables with `var`](#declaring-and-initializing-variables-with-var)
-  - [Understanding Variable Scope](#understanding-variable-scope)
-  - [Hoisting: JavaScript's Peculiar Behavior](#hoisting-javascripts-peculiar-behavior)
-  - [Disadvantages of Using `var` and Cautions](#disadvantages-of-using-var-and-cautions)
-  - [Key Takeaways](#key-takeaways)
+- [Introduction](#introduction)
+- [Declaring and Initializing Variables with `var`](#declaring-and-initializing-variables-with-var)
+- [Understanding Variable Scope](#understanding-variable-scope)
+- [Hoisting: JavaScript's Peculiar Behavior](#hoisting-javascripts-peculiar-behavior)
+- [Disadvantages of Using `var` and Cautions](#disadvantages-of-using-var-and-cautions)
+- [Key Takeaways](#key-takeaways)
 
 
 ## Introduction
