@@ -69,14 +69,16 @@ reader.readAsText(file);
 ## 6. Complexity
 To master a scripting language, programmers must have a thorough knowledge of all the programming concepts, core language objects, and client and server-side objects otherwise it would be difficult for them to write advanced scripts using JavaScript.
 
-### 7. Weak error handling and type checking facilities
+## 7. Weak error handling and type checking facilities
 It is a weakly typed language as there is no need to specify the data type of the variable. So wrong type checking is not performed by compile.
 
 ## Key Takeaways
-* JavaScript has performance limitations due to being an interpreted language.
-* Cross-browser compatibility can be a challenge when developing JavaScript applications.
-* Security vulnerabilities, such as XSS and CSRF attacks, are risks associated with JavaScript.
-* JavaScript lacks native support for multi-threading, but Web Workers can be used as a workaround.
-* Access to device hardware and peripherals is restricted for security reasons in JavaScript.
+- JavaScript has performance limitations due to being an interpreted language.
+- Cross-browser compatibility can be a challenge when developing JavaScript applications.
+- Security vulnerabilities, such as XSS and CSRF attacks, are risks associated with JavaScript.
+- JavaScript lacks native support for multi-threading, but Web Workers can be used as a workaround.
+- Access to device hardware and peripherals is restricted for security reasons in JavaScript.
 
-[Previous](where-is-javascript-used.md)
+---
+
+[Previous](./where-is-javascript-used.md) | [Next](./why-javascript-is-known-as-a-lightweight-programming-language.md)

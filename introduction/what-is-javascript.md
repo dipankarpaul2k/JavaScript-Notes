@@ -33,4 +33,6 @@ In this example, the JavaScript code creates a function that changes the color o
     
 - JavaScript is essential for creating modern web applications and is supported by all modern web browsers.
 
-[Next](where-is-javascript-used.md)
+---
+
+[Next](./where-is-javascript-used.md)

@@ -28,4 +28,6 @@ It provides the EaseJS library which provides solutions for working with rich gr
 * Node.js is a popular platform for building server-side applications using JavaScript.
 * MongoDB is a popular NoSQL database that uses JavaScript as its query language.
 
-[Previous](what-is-javascript.md) | [Next](what-are-the-limitations-of-javascript.md)
+---
+
+[Previous](./what-is-javascript.md) | [Next](./what-are-the-limitations-of-javascript.md)
