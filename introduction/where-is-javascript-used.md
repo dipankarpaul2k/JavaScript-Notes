@@ -1,4 +1,12 @@
-# Where is Javascript used?
+# Where is Javascript used?<!-- omit in toc -->
+
+- [Introduction](#introduction)
+- [Front-end Development](#front-end-development)
+- [Back-end Development](#back-end-development)
+- [Database Development](#database-development)
+- [Games](#games)
+- [Key Takeaways](#key-takeaways)
+
 
 ## Introduction
 JavaScript is a programming language that is used for creating websites and web-based applications. It is a lightweight language that is easy to learn and use. JavaScript is supported by all modern web browsers, and it can be used in various contexts such as front-end development, server-side programming, and database development.

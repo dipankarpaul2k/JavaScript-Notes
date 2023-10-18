@@ -1,4 +1,7 @@
-# What is JavaScript?
+# What is JavaScript?<!-- omit in toc -->
+
+- [Javascript](#javascript)
+- [Key Takeaways](#key-takeaways)
 
 
 ## Javascript

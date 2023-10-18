@@ -1,4 +1,9 @@
-# What is JIT compiler? Is JavaScript compiled or interpreted or both?
+# What is JIT compiler? Is JavaScript compiled or interpreted or both?<!-- omit in toc -->
+
+- [What is JIT compiler?](#what-is-jit-compiler)
+- [So is JavaScript Compiled or Interpreted?](#so-is-javascript-compiled-or-interpreted)
+- [Key Takeaways:](#key-takeaways)
+
 
 ## What is JIT compiler?
 

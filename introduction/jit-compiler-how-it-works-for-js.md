@@ -1,4 +1,12 @@
-# Understanding Just-in-Time (JIT) Compiler: How it Works for JavaScript?
+# Understanding Just-in-Time (JIT) Compiler: How it Works for JavaScript?<!-- omit in toc -->
+
+- [Introduction](#introduction)
+- [What is JIT Compiler?](#what-is-jit-compiler)
+- [How JIT Compiler Works](#how-jit-compiler-works)
+- [Example](#example)
+- [Benefits of JIT Compilation for JavaScript](#benefits-of-jit-compilation-for-javascript)
+- [Key Takeaways](#key-takeaways)
+
 
 ## Introduction
 

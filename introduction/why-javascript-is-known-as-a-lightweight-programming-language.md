@@ -1,4 +1,15 @@
-# Why JavaScript is known as a lightweight programming language?
+# Why JavaScript is known as a lightweight programming language?<!-- omit in toc -->
+
+- [What is JavaScript?](#what-is-javascript)
+- [Why is JavaScript lightweight?](#why-is-javascript-lightweight)
+  - [1. Interpreted Language:](#1-interpreted-language)
+  - [2. Single-threaded and Event-driven:](#2-single-threaded-and-event-driven)
+  - [3. Minimal Syntax and Features:](#3-minimal-syntax-and-features)
+  - [4. Platform-independent:](#4-platform-independent)
+  - [5. Small Footprint:](#5-small-footprint)
+- [Example:](#example)
+- [Key Takeaways](#key-takeaways)
+
 
 ## What is JavaScript?
 JavaScript is a high-level, interpreted programming language that is primarily used for creating web applications. It is often referred to as the "language of the web" as it is the most widely used programming language for web development. JavaScript runs on the client side, meaning it is executed by the web browser on the user's device.

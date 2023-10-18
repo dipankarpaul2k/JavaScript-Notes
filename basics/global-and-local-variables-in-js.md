@@ -1,4 +1,11 @@
-# Understanding Global and Local Variables in JavaScript
+# Understanding Global and Local Variables in JavaScript<!-- omit in toc -->
+
+- [Introduction](#introduction)
+- [Global Variables](#global-variables)
+- [Local Variables](#local-variables)
+- [Choosing Between Global and Local Variables](#choosing-between-global-and-local-variables)
+- [Key Takeaways](#key-takeaways)
+
 
 ## Introduction
 

@@ -1,4 +1,12 @@
-# Mastering JavaScript Output: Communicating with Users
+# Mastering JavaScript Output: Communicating with Users<!-- omit in toc -->
+
+- [Introduction](#introduction)
+- [Displaying Output in the Browser Console](#displaying-output-in-the-browser-console)
+- [Alert Boxes for User Interaction](#alert-boxes-for-user-interaction)
+- [Manipulating HTML Content: `innerHTML` Magic](#manipulating-html-content-innerhtml-magic)
+- [Exploring `document.write()`](#exploring-documentwrite)
+- [Key Takeaways](#key-takeaways)
+
 
 ## Introduction
 

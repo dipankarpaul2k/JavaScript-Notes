@@ -1,4 +1,13 @@
-# Understanding JavaScript Variables: Declaration, Scope, and Data Types
+# Understanding JavaScript Variables: Declaration, Scope, and Data Types<!-- omit in toc -->
+
+- [Introduction:](#introduction)
+- [Declaration of Variables:](#declaration-of-variables)
+- [Naming Convention:](#naming-convention)
+- [Scope of Variables:](#scope-of-variables)
+- [Data Types of Variables:](#data-types-of-variables)
+- [Assignment of Variables:](#assignment-of-variables)
+- [Key Takeaways:](#key-takeaways)
+
 
 ## Introduction:
 

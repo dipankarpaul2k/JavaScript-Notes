@@ -1,4 +1,16 @@
-# What is the difference between Compilation and Interpretation?
+# What is the difference between Compilation and Interpretation?<!-- omit in toc -->
+
+- [Compilation vs. Interpretation](#compilation-vs-interpretation)
+- [Compilation:](#compilation)
+  - [Here's a simplified overview of the compilation process:](#heres-a-simplified-overview-of-the-compilation-process)
+  - [Advantages of compilation:](#advantages-of-compilation)
+  - [Disadvantages of compilation:](#disadvantages-of-compilation)
+- [Interpretation](#interpretation)
+  - [Here's how interpretation typically works:](#heres-how-interpretation-typically-works)
+  - [Advantages of interpretation:](#advantages-of-interpretation)
+  - [Disadvantages of interpretation:](#disadvantages-of-interpretation)
+- [Key Takeaways:](#key-takeaways)
+
 
 ## Compilation vs. Interpretation
 
