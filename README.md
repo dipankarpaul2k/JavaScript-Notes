@@ -8,7 +8,7 @@ In this series I will be sharing my journey in learning Javascript and posting m
 
 If you find anything error or wrong information, feel free to contact me. I may not be able to reply all the messages, but I do read them all.
 
-Dipankar Paul 😀 | 👉 <dipankarpaul2k@gmailcom>
+Dipankar Paul 😀 | 👉 <dipankarpaul2k@gmail.com>
 
 ___
 
