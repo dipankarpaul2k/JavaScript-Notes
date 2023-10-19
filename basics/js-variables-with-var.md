@@ -85,4 +85,4 @@ When using var, it's essential to be aware of these limitations and potential pi
 
 ---
 
-[Previous](./global-and-local-variables-in-js.md) | [Next]()
+[Previous](./global-and-local-variables-in-js.md) | [Next](./javascripts-let-keyword.md)

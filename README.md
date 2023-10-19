@@ -25,3 +25,7 @@ ___
 9. [Understanding JavaScript Variables: Declaration, Scope, and Data Types](./basics/javascript-variables.md)
 10. [Understanding Global and Local Variables in JavaScript](./basics/global-and-local-variables-in-js.md)
 11. [Mastering JavaScript Variables with 'var'](./basics/js-variables-with-var.md)
+12. [Mastering JavaScript's `let` Keyword](./basics/javascripts-let-keyword.md)
+13. [Mastering JavaScript 'const'](./basics/javascript-const.md)
+14. [Understanding Data Types in JavaScript](./basics/data-types-in-javascript.md)
+15. [Statically Typed vs. Dynamically Typed](./basics/statically-typed-vs-dynamically-typed.md)
