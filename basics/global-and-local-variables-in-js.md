@@ -69,4 +69,4 @@ In general, it's advisable to limit the use of global variables and opt for loca
 
 ---
 
-[Previous](./javascript-variables.md) | [Next](./js-variables-with-var.md)
+[Previous](./javascript-variables.md) | [Next](./js-variables-with-var-keyword.md)

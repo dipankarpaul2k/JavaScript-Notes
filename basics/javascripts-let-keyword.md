@@ -137,4 +137,4 @@ In conclusion, mastering the `let` keyword is essential for writing robust and m
 
 ---
 
-[Previous](./js-variables-with-var.md) | [Next](./javascript-const.md)
+[Previous](./js-variables-with-var-keyword.md) | [Next](./javascript-const-keyword.md)

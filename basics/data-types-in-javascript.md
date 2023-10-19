@@ -122,4 +122,4 @@ console.log(sumString); // Output: "1020"
 
 ---
 
-[Previous](./javascript-const.md) | [Next](./statically-typed-vs-dynamically-typed.md)
+[Previous](./javascript-const-keyword.md) | [Next](./statically-typed-vs-dynamically-typed.md)
