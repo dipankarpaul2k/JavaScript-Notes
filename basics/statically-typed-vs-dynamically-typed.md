@@ -91,4 +91,4 @@ While this flexibility can be a boon, it also means that type-related errors may
 
 ---
 
-[Previous](./data-types-in-javascript.md) | [Next]()
+[Previous](./data-types-in-javascript.md) | [Next](./javaScript-data-types.md)
