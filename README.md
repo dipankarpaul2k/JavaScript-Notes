@@ -36,3 +36,5 @@ Dipankar Paul 😀 | 👉 <dipankarpaul2k@gmail.com>
 20. [JavaScript's `typeof` Operator](./JS_Operators/typeof-operator.md)
 21. [The `in` Operator in JavaScript](./JS_Operators/in-operator.md)
 22. [The `delete` Operator in JavaScript](./JS_Operators/delete-operator.md)
+23. [Mastering `if-else` in JavaScript](./JS_Conditionals/javascript-if-else.md)
+24. [JavaScript Ternary Operator: Once Again](./JS_Conditionals/ternary-operator-once-again.md)

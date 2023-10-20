@@ -81,4 +81,4 @@ Here, the `document` property of the `window` object is deleted, rendering it in
 
 ---
 
-[Previous](./in-operator.md) | [Next]()
+[Previous](./in-operator.md) | [Next](../JS_Conditionals/javascript-if-else.md)
